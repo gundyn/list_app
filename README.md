@@ -4,7 +4,7 @@ This project is a simple To-Do list application built using Django. It allows us
 
 ## Project Overview
 
-This app is developed following the steps outlined in the tutorial. The main components include setting up a Django project, designing a data model, using Django's built-in object-relational mapping tool, creating templates and views, and connecting them through the URL dispatcher.
+The main components include setting up a Django project, designing a data model, using Django's built-in object-relational mapping tool, creating templates and views, and connecting them through the URL dispatcher.
 
 ## What I Have Done
 
